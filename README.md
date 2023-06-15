@@ -1,5 +1,5 @@
 # Scientific-Calculator
-Created a user-friendly scientific calculator that includes essential functions like sine, cosine, tangent, square, square root, logarithmic as well as fundamental arithmetic operations using the fundamentals of HTML, CSS and JavaScript.
+Created a user-friendly scientific calculator that includes essential functions like sine, cosine, tangent, square, square root, logarithmic, exponential as well as fundamental arithmetic operations using the fundamentals of HTML, CSS and JavaScript.
 
 
 About:
